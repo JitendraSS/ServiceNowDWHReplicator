@@ -1,0 +1,2 @@
+tables:
+- {name: incident, created: [2018-11-01, 2018-11-30], filter: "assignment_group=xxxxx73c6112278017a6a4baf547aa7"} 
